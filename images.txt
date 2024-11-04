@@ -1,4 +1,4 @@
 nginx
 centos
-mysql/mysql-server:8.4
+mysql/mysql-server:latest
 postgres:alpine
