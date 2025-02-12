@@ -2,3 +2,4 @@ nginx
 centos
 mysql/mysql-server:latest
 postgres:alpine
+ollama/ollama
