@@ -6,3 +6,4 @@ langgenius/dify-sandbox:0.2.10
 langgenius/dify-plugin-daemon:0.0.1-local
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
+localai/localai:latest-aio-cpu
